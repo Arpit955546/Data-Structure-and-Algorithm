@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0131-palindrome-partitioning](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
