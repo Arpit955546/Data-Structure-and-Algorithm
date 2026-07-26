@@ -21,7 +21,7 @@ return dp[i][target]= take || skip;
      for(int i=0;i<nums.size();i++){
         sum+=nums[i];
      }
-     vector<vector<int>> dp(nums.size()+1,vector<int>(sum+1,-1)); 
+     vector<vector<int>> dp(nums.size()+1,vector<int>(sum/2+1,-1)); 
      if(sum%2!=0){
         return false;
      }  
