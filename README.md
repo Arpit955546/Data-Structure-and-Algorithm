@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
@@ -25,6 +26,7 @@
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0494-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
