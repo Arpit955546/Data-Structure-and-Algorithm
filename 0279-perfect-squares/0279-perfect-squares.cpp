@@ -20,13 +20,10 @@ ans=min(ans,1+solve(arr,n-ar,dp));
 }
     int numSquares(int n) {
         vector<int> arr;
-      for(int i=1;i<=n;i++){
-        for(int j=1;j<=i;j++){
-            if(j*j==i){
-                arr.push_back(i);
-            }
-        }
-      } 
+      for(int i=1; i*i<=n; i++){
+    arr.push_back(i*i);
+}
+      
       vector<int> dp(n+1,-1);
      int ans=solve(arr,n,dp);
       if(ans>=1e9){
