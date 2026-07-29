@@ -6,6 +6,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
@@ -59,6 +60,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
