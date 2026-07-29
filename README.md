@@ -20,6 +20,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+| [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0518-coin-change-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
