@@ -53,6 +53,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Depth-First Search
 |  |
@@ -93,6 +94,7 @@
 | [0070-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
 |  |
@@ -121,4 +123,8 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
