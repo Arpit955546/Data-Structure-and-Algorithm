@@ -17,6 +17,7 @@
 | [0322-coin-change](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
+| [0474-ones-and-zeroes](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Depth-First Search
@@ -81,6 +83,7 @@
 | [0322-coin-change](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
