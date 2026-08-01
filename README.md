@@ -23,6 +23,7 @@
 | [0494-target-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
@@ -155,5 +156,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
