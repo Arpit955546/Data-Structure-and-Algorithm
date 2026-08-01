@@ -14,6 +14,7 @@
 | [0120-triangle](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
+| [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -118,6 +120,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
