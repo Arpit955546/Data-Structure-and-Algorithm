@@ -16,6 +16,7 @@
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0377-combination-sum-iv) |
+| [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
+| [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
