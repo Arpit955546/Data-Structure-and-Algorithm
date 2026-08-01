@@ -31,6 +31,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +159,5 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
