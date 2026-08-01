@@ -28,6 +28,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
