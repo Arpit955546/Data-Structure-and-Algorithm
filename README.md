@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,6 +102,7 @@
 | [0518-coin-change-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1049-last-stone-weight-ii) |
 ## Math
@@ -111,6 +113,7 @@
 | [0279-perfect-squares](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
