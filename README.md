@@ -16,6 +16,7 @@
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
@@ -174,6 +175,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
