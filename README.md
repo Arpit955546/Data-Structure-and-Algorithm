@@ -15,6 +15,7 @@
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +128,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -171,4 +176,8 @@
 | [1480-running-sum-of-1d-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2574-left-and-right-sum-differences) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
