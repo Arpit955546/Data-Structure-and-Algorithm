@@ -41,6 +41,7 @@
 | [1920-build-array-from-permutation](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2574-left-and-right-sum-differences) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -91,6 +92,7 @@
 | [0064-minimum-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1406-stone-game-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
@@ -141,6 +144,7 @@
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
+| [2965-find-missing-and-repeated-values](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3731-find-missing-elements) |
