@@ -12,6 +12,7 @@
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
@@ -134,6 +136,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -153,6 +156,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Breadth-First Search
@@ -195,4 +199,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
