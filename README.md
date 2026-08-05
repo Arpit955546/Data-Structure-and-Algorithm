@@ -10,6 +10,7 @@
 | [0064-minimum-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
