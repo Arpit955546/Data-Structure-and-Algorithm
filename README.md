@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
@@ -105,6 +106,7 @@
 | [0064-minimum-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
