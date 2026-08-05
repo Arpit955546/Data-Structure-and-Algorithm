@@ -127,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
