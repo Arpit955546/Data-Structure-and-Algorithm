@@ -138,6 +138,7 @@
 | [1406-stone-game-iii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1406-stone-game-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
 |  |
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
