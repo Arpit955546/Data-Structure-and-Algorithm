@@ -86,6 +86,7 @@
 | [0474-ones-and-zeroes](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Depth-First Search
@@ -126,6 +127,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -228,6 +231,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
 | ------- |
