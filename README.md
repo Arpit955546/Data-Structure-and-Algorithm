@@ -129,6 +129,7 @@
 | [1049-last-stone-weight-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
@@ -143,6 +144,7 @@
 | [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -203,6 +205,7 @@
 | [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -249,8 +252,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
