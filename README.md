@@ -90,6 +90,7 @@
 | [0079-word-search](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -128,6 +129,7 @@
 | [0486-predict-the-winner](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0877-stone-game) |
@@ -199,6 +201,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -282,4 +285,12 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
