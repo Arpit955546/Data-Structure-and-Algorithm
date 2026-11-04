@@ -145,6 +145,7 @@
 | [0050-powx-n](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0486-predict-the-winner) |
@@ -224,6 +225,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
@@ -262,6 +264,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arpit955546/Data-Structure-and-Algorithm/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
